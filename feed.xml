@@ -3,12 +3,54 @@
     <title>Blog HNN</title>
     <link href="https://bloghnn.github.io/feed.xml" rel="self" />
     <link href="https://bloghnn.github.io" />
-    <updated>2022-01-02T14:09:20+07:00</updated>
+    <updated>2022-01-11T16:32:06+07:00</updated>
     <author>
         <name>Hari AN</name>
     </author>
     <id>https://bloghnn.github.io</id>
 
+    <entry>
+        <title>Aplikasi myIndiHome Menggunakan Teknologi Container Microservice</title>
+        <author>
+            <name>Hari AN</name>
+        </author>
+        <link href="https://bloghnn.github.io/aplikasi-myindihome-menggunakan-teknologi-container-microservice/"/>
+        <id>https://bloghnn.github.io/aplikasi-myindihome-menggunakan-teknologi-container-microservice/</id>
+            <category term="Artikel"/>
+
+        <updated>2022-01-11T16:32:06+07:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://bloghnn.github.io/media/posts/13/Aplikasi-myIndiHome-Menggunakan-Teknologi-Container-Microservice.jpeg" alt="Aplikasi myIndiHome Menggunakan Teknologi Container Microservice" />
+                     Telkom barusan melaunching program myIndiHome dengan versus terkini. Pada program terkini itu, bermacam jalan keluar ditawari untuk mengurus service&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://bloghnn.github.io/media/posts/13/Aplikasi-myIndiHome-Menggunakan-Teknologi-Container-Microservice.jpeg" alt="Aplikasi myIndiHome Menggunakan Teknologi Container Microservice" />
+                
+  <p>
+    Telkom barusan melaunching program myIndiHome dengan versus terkini. Pada program terkini itu, bermacam jalan keluar ditawari untuk mengurus service IndiHome. Program myIndiHome versus terbaru didatangkan dengan ide new excitement.
+<br>
+<br>Bermacam feature favorit terhidang untuk mempermudah konsumen setia dalam mengurus service IndiHome, satu diantaranya ialah scheduling mekanik. Untuk pasang baru dan pembaruan service IndiHome, scheduling dengan mekanik bisa dilaksanakan seperti keinginan konsumen setia.
+<br>
+<br>"Kami mengeluarkan program myIndiHome versus terbaru dengan pengembangan dan bermacam feature favorit terkini dengan sediakan keringanan, keamanan dan kenyamanan untuk konsumen setia," tutur Direktur Consumer Servis Telkom, Venusiana dalam acara pertemuan jurnalis virtual.
+<br>
+<br>Dalam pada itu, Direktur Digital Business Telkom Muhamad Fajrin Rasyid menjelaskan, IndiHome terus berusaha tingkatkan kualitas servicenya untuk sediakan pengalaman konsumen setia terbaik, terhitung didalamnya dengan lakukan penyempurnaan Program myIndiHome.
+<br>
+<br>"Program myIndiHome kami rancang berdasar saran konsumen setia, dengan dituruti pembaruan proses usaha di intern perusahaan, dan diperkembangkan dengan memakai tehnologi digital terbaru untuk pengalaman digital terbaik konsumen setia," katanya.
+<br>
+<br><strong>Tehnologi Container - Microservice</strong>
+<br>
+<br>Fajrin menjelaskan program myIndiHome dibikin dengan memakai tehnologi Container - Microservice yang menolong percepat peningkatan program hingga bisa membuat bermacam feature menarik sama sesuai keperluan dan saran konsumen setia, dan pemakaian tehnologi Native Apps untuk memberi kenyamanan, keamanan dan kecepatan konsumen setia memakai program baik itu di mekanisme operasi Android atau iOS.
+<br>
+<br>Yang akan datang, lanjut ia, program akan diperlengkapi dengan feature biometri dengan tehnologi kepandaian bikinan artificial intelligence (AI) supaya konsumen setia dapat cepat terhubung program dengan face recognition biometri tak perlu ingat code akses dan password.
+<br>
+<br>"Semua keringanan ini untuk penuhi keperluan keinginan konsumen setia kami, sesuai jargon yang kami angkat the new excitement, satu click, buat semua lebih asyik," terang Fajrin. Program myIndiHome versus terbaru bisa didownload lewat App Toko untuk pemakai iOS dan Google Play untuk pemakai Android.
+  </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Tips Menjaga Pola Makan Agar Tetap Sehat</title>
         <author>
@@ -2089,117 +2131,6 @@ wallażīna yu`minụna bimā unzila ilaika wa mā unzila ming qablik, wa bil-ā
     The limitations and prohibitions of liability set in this Section and elsewhere in this disclaimer: (a) are subject to the preceding paragraph; and (b) govern all liabilities arising under the disclaimer, including liabilities arising in contract, in tort and for breach of statutory duty.
 <br>
 <br>As long as the website and the information and services on the website are provided free of charge, we will not be liable for any loss or damage of any nature.
-  </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Privacy Policy</title>
-        <author>
-            <name>Hari AN</name>
-        </author>
-        <link href="https://bloghnn.github.io/privacy-policy/"/>
-        <id>https://bloghnn.github.io/privacy-policy/</id>
-
-        <updated>2021-08-07T13:17:36+07:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://bloghnn.github.io/media/posts/3/Privacy-Policy.jpeg" alt="Privacy Policy" />
-                     Privacy Policy for Blog HNN At Blog HNN, accessible from https://bloghnn.github.io, one of our main priorities is the privacy&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://bloghnn.github.io/media/posts/3/Privacy-Policy.jpeg" alt="Privacy Policy" />
-                
-  <p>
-    <strong>Privacy Policy for Blog HNN</strong>
-<br>
-  </p>
-
-  <p>
-    At Blog HNN, accessible from https://bloghnn.github.io, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by Blog HNN and how we use it.
-<br>
-<br>If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us.
-<br>
-<br><strong>Log Files</strong>
-  </p>
-
-  <p>
-    Blog HNN follows a standard procedure of using log files. These files log visitors when they visit websites. All hosting companies do this and a part of hosting services' analytics. The information collected by log files include internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date and time stamp, referring/exit pages, and possibly the number of clicks. These are not linked to any information that is personally identifiable. The purpose of the information is for analyzing trends, administering the site, tracking users' movement on the website, and gathering demographic information. Our Privacy Policy was created with the help of the <a href="https://www.privacypolicyonline.com/privacy-policy-generator/" target="_blank" rel="nofollow noopener">Privacy Policy Generator</a>.
-<br>
-<br><strong>Cookies and Web Beacons</strong>
-  </p>
-
-  <p>
-    Like any other website, Blog HNN uses 'cookies'. These cookies are used to store information including visitors' preferences, and the pages on the website that the visitor accessed or visited. The information is used to optimize the users' experience by customizing our web page content based on visitors' browser type and/or other information.
-  </p>
-
-  <p>
-    For more general information on cookies, please read the "What Are Cookies" article on Cookie Consent website.
-<br>
-<br><strong>Google DoubleClick DART Cookie</strong>
-  </p>
-
-  <p>
-    Google is one of a third-party vendor on our site. It also uses cookies, known as DART cookies, to serve ads to our site visitors based upon their visit to www.website.com and other sites on the internet. However, visitors may choose to decline the use of DART cookies by visiting the Google ad and content network Privacy Policy at the following URL – <a href="https://policies.google.com/technologies/ads" target="_blank" rel="nofollow noopener">https://policies.google.com/technologies/ads</a>
-<br>
-<br><strong>Our Advertising Partners</strong>
-  </p>
-
-  <p>
-    Some of advertisers on our site may use cookies and web beacons. Our advertising partners are listed below. Each of our advertising partners has their own Privacy Policy for their policies on user data. For easier access, we hyperlinked to their Privacy Policies below.
-  </p>
-
-  <ul>
-    <li>Google</li>
-  </ul>
-
-  <p>
-    <a href="https://policies.google.com/technologies/ads" target="_blank" rel="nofollow noopener">https://policies.google.com/technologies/ads</a>
-  </p>
-
-  <p>
-    <strong>Privacy Policies</strong>
-<br>
-  </p>
-
-  <p>
-    You may consult this list to find the Privacy Policy for each of the advertising partners of Blog HNN.
-<br>
-<br>Third-party ad servers or ad networks uses technologies like cookies, JavaScript, or Web Beacons that are used in their respective advertisements and links that appear on Blog HNN, which are sent directly to users' browser. They automatically receive your IP address when this occurs. These technologies are used to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on websites that you visit.
-  </p>
-
-  <p>
-    Note that Blog HNN has no access to or control over these cookies that are used by third-party advertisers.
-<br>
-<br><strong>Third Party Privacy Policies</strong>
-  </p>
-
-  <p>
-    Blog HNN's Privacy Policy does not apply to other advertisers or websites. Thus, we are advising you to consult the respective Privacy Policies of these third-party ad servers for more detailed information. It may include their practices and instructions about how to opt-out of certain options.
-<br>
-<br>You can choose to disable cookies through your individual browser options. To know more detailed information about cookie management with specific web browsers, it can be found at the browsers' respective websites. What Are Cookies?
-<br>
-<br><strong>Children's Information</strong>
-  </p>
-
-  <p>
-    Another part of our priority is adding protection for children while using the internet. We encourage parents and guardians to observe, participate in, and/or monitor and guide their online activity.
-<br>
-<br>Blog HNN does not knowingly collect any Personal Identifiable Information from children under the age of 13. If you think that your child provided this kind of information on our website, we strongly encourage you to contact us immediately and we will do our best efforts to promptly remove such information from our records.
-<br>
-<br><strong>Online Privacy Policy Only</strong>
-  </p>
-
-  <p>
-    This Privacy Policy applies only to our online activities and is valid for visitors to our website with regards to the information that they shared and/or collect in Blog HNN. This policy is not applicable to any information collected offline or via channels other than this website.
-<br>
-<br><strong>Consent</strong>
-  </p>
-
-  <p>
-    By using our website, you hereby consent to our Privacy Policy and agree to its Terms and Conditions.
   </p>
             ]]>
         </content>
